@@ -19,6 +19,7 @@ namespace App1
 
             // Set our view from the "main" layout resource
             SetContentView(Resource.Layout.Main);
+            var sd = decimal(5);
 
             // Get our button from the layout resource,
             // and attach an event to it
